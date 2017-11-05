@@ -1,5 +1,8 @@
-  git init
-  git add README.md
-  git commit -m "first commit"
-  git remote add origin https://github.com/jimmyqiao/PythonLearning.git
-  git push -u origin master
+git init
+
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jimmyqiao/PythonLearning.git
+git push -u origin master
+
+git pull https://github.com/jimmyqiao/PythonLearning.git master
