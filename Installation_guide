@@ -1,0 +1,4 @@
+sudo yum install python python-pip python-devel
+sudo pip install jupyter ipython jsonschema
+ipython notebook --ip localhost
+sudo yum install git
