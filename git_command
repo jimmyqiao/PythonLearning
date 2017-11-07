@@ -6,3 +6,9 @@ git remote add origin https://github.com/jimmyqiao/PythonLearning.git
 git push -u origin master
 
 git pull https://github.com/jimmyqiao/PythonLearning.git master
+
+#check the remote repository
+git remote -v
+
+#check local changes
+git status
