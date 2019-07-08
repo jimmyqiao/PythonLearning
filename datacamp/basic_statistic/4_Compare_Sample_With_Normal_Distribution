@@ -1,4 +1,4 @@
-# Compute mean and standard deviation: mu, sigma
+# Compute mean and standard deviation from real data set: mu, sigma
 mu = np.mean(belmont_no_outliers)
 sigma = np.std(belmont_no_outliers)
 
